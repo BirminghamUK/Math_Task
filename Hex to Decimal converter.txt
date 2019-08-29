@@ -1,0 +1,12 @@
+# Hex to Decimal converter:  https://www.rapidtables.com/convert/number/hex-to-decimal.html
+# Decimal to Hex converter:  https://www.rapidtables.com/convert/number/decimal-to-hex.html
+
+
+c972 = 51570
+
+dc261c = 14427676
+
+b731792e = 3073472814
+
+
+
